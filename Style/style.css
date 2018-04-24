@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+span{
+  float: left;
+  display: block;
+  color: white;
+  font-size: 1.2em;
+  font-weight: 700;
+  padding: 15px 0 0 20px;  
+}
+
+header{
+  background: red;
+  width: 100%;
+  position: fixed;
+  z-index: 100;
+}
+
+nav{
+  float: right;
+}
+
+nav ul{
+  list-style: none;
+  overflow: hidden;
+}
+
+nav ul li{
+  float: left;
+  font-family: Arial;
+  font-size: 16px;
+}
+
+nav ul li a{
+  display: block;
+  padding: 20px;
+  color: #fff;
+  text-decoration: none;
+}
