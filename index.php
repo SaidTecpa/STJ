@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title> Fracture </title>
+    <title> Relative Fracture </title>
     <link rel="stylesheet" href="Style/style.css">
   </head>
   <body>
@@ -16,11 +16,10 @@
       </div>
     </div>
     <div id="particles-js"></div>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br>
     <script src="particles.js"></script>
     <script src="app.js"></script>
   </body>
+  <footer class="main-footer">
+  <p>RelativeFracture &copy; 2018</p>
+</footer>
 </html>

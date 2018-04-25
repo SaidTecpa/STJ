@@ -65,3 +65,11 @@ nav ul li a{
   font-size: 40px;
   font-family: Arial;
 }
+
+.main-footer{
+  display: block;
+  width: 100%;
+  background: #333030;
+  color: white;
+  text-align: center;
+}
