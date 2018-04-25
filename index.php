@@ -7,5 +7,9 @@
   </head>
   <body>
     <?php require 'Nav/nav.php' ?>
+
+    <div id="particles-js"></div>
+    <script src="particles.js"></script>
+    <script src="app.js"></script>
   </body>
 </html>
