@@ -1,5 +1,5 @@
 <header>
-  <a href="index.php"> <span> STJ </span> </a>
+  <a href="index.php"> <span> Fracture </span> </a>
   <nav>
     <ul>
       <li> <a href="index.php"> Inicio </a> </li>
