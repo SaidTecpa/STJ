@@ -8,13 +8,13 @@ span{
   color: white;
   font-size: 1.2em;
   font-weight: 700;
-  padding: 15px 0 0 20px;
+  padding: 16px 0 0 50px;
 }
 
 header{
-  background: #333030;
-  width: 100%;
+  background: rbga(0,0,0,0.5);
   position: fixed;
+  width: 100%;
   z-index: 100;
 }
 
@@ -41,6 +41,27 @@ nav ul li a{
 }
 
 #particles-js{
-  background: #444;
-  
+  background: #333030;
+}
+
+.ancho-letras{
+  padding: 200px;
+  padding-left: 50px;
+  position: absolute;
+  width: 60%;
+  background: #;
+  text-align: left;
+  z-index: auto; /* Si presenta problemas, es necesario quitar esta linea */
+}
+
+.letras-sliders h1{
+  color: #fff;
+  font-family: Arial;
+  font-size: 70px;
+}
+
+.letras-sliders p{
+  color: #fff;
+  font-size: 40px;
+  font-family: Arial;
 }
