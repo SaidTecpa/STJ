@@ -10,9 +10,9 @@
 
     <div class="ancho-letras">
       <div class="letras-sliders">
-        <h1>Un mundo de ideas</h1><br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-          elit, sed do eiusmod tempor incididunt ut labore et</p>
+        <h1>A creative universe</h1><br><br>
+        <p>Dreams, ideas, passions and goals are forged with a single purpose
+          and is to make you live.</p>
       </div>
     </div>
     <div id="particles-js"></div>

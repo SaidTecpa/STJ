@@ -18,6 +18,13 @@ header{
   z-index: 100;
 }
 
+header1{
+  background: #333030;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+
 nav{
   float: right;
 }
@@ -72,4 +79,35 @@ nav ul li a{
   background: #333030;
   color: white;
   text-align: center;
+}
+
+.titulo-doc{
+  padding-top: 100px;
+  padding-left: 50px;
+  position: absolute;
+  width: 90%;
+  background: ;
+  text-align: center;
+  z-index: auto;
+}
+
+.letra{
+  font-family: 'Do Hyeon', sans-serif;
+  font-size: 20px;
+}
+
+.titulo-doc1{
+  padding-top: 200px;
+  padding-left: 60px;
+  position: absolute;
+  width: 90%;
+  background: ;
+  text-align: center;
+  z-index: auto;
+}
+
+.letra1{
+  font-family: Arial;
+  font-size: 10px;
+  color: #a09d9d;
 }
