@@ -21,5 +21,5 @@
   </body>
   <footer class="main-footer">
   <p>RelativeFracture &copy; 2018</p>
-</footer>
+  </footer>
 </html>
