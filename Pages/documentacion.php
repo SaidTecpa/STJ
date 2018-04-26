@@ -30,7 +30,7 @@
            ideas and thoughts.</p><br>
         <p>In order to moments of fun, entertainment and also the
          the idea of combining engineering with physics; I will develop this project
-         which I hope my goal to learn more is fulfilled.</p>
+         which I hope my goal to learn more is fulfilled.</p><br><br><br><br><br>
       </div>
     </div>
   </body>

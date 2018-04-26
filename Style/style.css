@@ -106,10 +106,37 @@ nav ul li a{
   z-index: auto;
 }
 
+.titulo-doc2{
+  padding-top: 150px;
+  padding-left: 60px;
+  position: absolute;
+  width: 90%;
+  background: ;
+  text-align: left;
+  z-index: auto;
+}
+
+.titulo-doc3{
+  padding-top: 150px;
+  padding-left: 60px;
+  position: absolute;
+  width: 95.58%;
+  background: blue;
+  text-align: left;
+  z-index: auto;
+}
+
 .letra1{
   font-family: Arial;
   font-size: 10px;
   color: #a09d9d;
+}
+
+.letra2 h1{
+  font-family: Arial;
+  font-size: 47px;
+  color: black;
+
 }
 
 .infor{
