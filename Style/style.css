@@ -48,7 +48,7 @@ nav ul li a{
 }
 
 #particles-js{
-  background: #333030;
+  background: #0f0f0f;
 }
 
 .ancho-letras{
@@ -117,11 +117,11 @@ nav ul li a{
 }
 
 .titulo-doc3{
-  padding-top: 150px;
+  padding-top: 100px;
   padding-left: 60px;
   position: absolute;
   width: 95.58%;
-  background: blue;
+  background: ;
   text-align: left;
   z-index: auto;
 }
@@ -132,12 +132,6 @@ nav ul li a{
   color: #a09d9d;
 }
 
-.letra2 h1{
-  font-family: Arial;
-  font-size: 47px;
-  color: black;
-
-}
 
 .infor{
   padding-top: 480px;
@@ -152,5 +146,31 @@ nav ul li a{
 .letra2{
   font-family: Arial;
   font-size: 23px;
-  color: #a09d9d;
+  color: ;
 }
+
+/*Esta parte es de proyectos, con el efecto glinch*/
+@import "compass/css3";
+
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+
+body{
+  background: white;
+}
+
+
+.info a{
+  color: white;
+}
+
+svg{
+  width: 600px;
+  height: 90px;
+  display: block;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  background: white;
+}
+/**/
