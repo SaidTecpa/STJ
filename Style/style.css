@@ -147,7 +147,23 @@ nav ul li a{
   font-family: Arial;
   font-size: 23px;
   color: ;
+  text-align: center;
 }
+
+.titulo-doc4{
+  padding-top: 250px;
+  padding-left: 60px;
+  position: absolute;
+  width: 95.58%;
+  background: ;
+  text-align: left;
+  z-index: auto;
+}
+
+
+
+
+
 
 /*Esta parte es de proyectos, con el efecto glinch*/
 @import "compass/css3";
