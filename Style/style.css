@@ -76,7 +76,7 @@ nav ul li a{
 .main-footer{
   display: block;
   width: 100%;
-  background: #333030;
+  background: #0f0f0f;
   color: white;
   text-align: center;
 }
@@ -121,7 +121,7 @@ nav ul li a{
   padding-left: 60px;
   position: absolute;
   width: 95.58%;
-  background: ;
+  background:red ;
   text-align: left;
   z-index: auto;
 }
@@ -163,8 +163,6 @@ nav ul li a{
 
 
 
-
-
 /*Esta parte es de proyectos, con el efecto glinch*/
 @import "compass/css3";
 
@@ -190,3 +188,40 @@ svg{
   background: white;
 }
 /**/
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 13%;
+  border-radius: 5px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+img {
+  border-radius: 5px 5px 0 0;
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+
+
+
+.do{
+  background: blue;
+  float: left;
+  position:absolute ;
+}
+
+.du{
+  float: left;
+  position:;
+  background:orange;
+  padding-right: 32px;
+}
